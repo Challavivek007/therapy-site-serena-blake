@@ -12,7 +12,7 @@ export default function Services() {
           {/* Service 1 */}
           <div className="bg-white p-6 rounded-xl shadow-md border border-transparent hover:border-black hover:scale-105 transition-all duration-300">
             <Image
-              src="/images/anxiety.jpg"
+              src="https://images.unsplash.com/photo-1586473219010-2ffc57b0d282?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3RyZXNzJTIwbWFuYWdlbWVudHxlbnwwfHwwfHx8MA%3D%3D"
               alt="Anxiety & Stress Management"
               width={500}
               height={300}
@@ -28,7 +28,7 @@ export default function Services() {
           {/* Service 2 */}
           <div className="bg-white p-6 rounded-xl shadow-md border border-transparent hover:border-black hover:scale-105 transition-all duration-300">
             <Image
-              src="/images/relationship.jpg"
+              src="https://images.unsplash.com/photo-1615028618452-946a763200e5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHJlbGF0aW9uJTIwc2hpcHxlbnwwfHwwfHx8MA%3D%3D"
               alt="Relationship Counseling"
               width={500}
               height={300}
@@ -44,7 +44,7 @@ export default function Services() {
           {/* Service 3 */}
           <div className="bg-white p-6 rounded-xl shadow-md border border-transparent hover:border-black hover:scale-105 transition-all duration-300">
             <Image
-              src="/images/trauma.jpg"
+              src="https://images.unsplash.com/photo-1604881991720-f91add269bed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVudGFsJTIwaGVhbHRofGVufDB8fDB8fHww"
               alt="Trauma Recovery"
               width={500}
               height={300}
