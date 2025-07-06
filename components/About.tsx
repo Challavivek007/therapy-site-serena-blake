@@ -9,7 +9,7 @@ export default function About() {
         {/* LEFT: Image + Info */}
         <div className="w-full md:w-1/2 flex flex-col items-center md:items-start">
           <Image
-            src="/images/About.jpg"
+            src="/images/about.jpg"
             alt="Dr. Serena Blake"
             width={400}
             height={400}
